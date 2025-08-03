@@ -23,6 +23,7 @@ h2 {
 h3 {
     color: #138f45;
     font-family: "Merriweather", serif;
+    font-size: 1.25rem;
 }
 
 p {
@@ -42,6 +43,12 @@ hr {
     padding-top: 100px;
 }
 
+.top-cloud {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+
 .middle-container {
     margin: 100px auto;
     line-height: 2;
@@ -55,12 +62,6 @@ hr {
 .bottom-container {
     background-color: #d3eccd;
     padding: 50px 0 20px;
-}
-
-.top-cloud {
-    position: absolute;
-    right: 200px;
-    top: 50px;
 }
 
 .bottom-cloud {
